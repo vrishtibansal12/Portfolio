@@ -1,0 +1,124 @@
+[10-Sep-2022 14:11:41 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 43
+[10-Sep-2022 14:11:41 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 43
+[10-Sep-2022 14:11:41 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 43
+[10-Sep-2022 06:33:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE), expecting ';' or ',' in /home4/girlsini/beingvrishti.com/certificateMailer/sendMail.php on line 104
+[10-Sep-2022 06:42:16 America/Chicago] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE), expecting ';' or ',' in /home4/girlsini/beingvrishti.com/certificateMailer/sendMail.php on line 104
+[10-Sep-2022 06:42:48 America/Chicago] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE), expecting ';' or ',' in /home4/girlsini/beingvrishti.com/certificateMailer/sendMail.php on line 104
+[10-Sep-2022 06:43:07 America/Chicago] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE), expecting ';' or ',' in /home4/girlsini/beingvrishti.com/certificateMailer/sendMail.php on line 104
+[10-Sep-2022 06:43:25 America/Chicago] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE), expecting ';' or ',' in /home4/girlsini/beingvrishti.com/certificateMailer/sendMail.php on line 104
+[10-Sep-2022 07:44:49 America/Chicago] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ';' or ',' in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 78
+[10-Sep-2022 07:45:59 America/Chicago] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ';' or ',' in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 78
+[10-Sep-2022 18:18:16 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 43
+[10-Sep-2022 18:18:16 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 43
+[10-Sep-2022 18:18:57 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 43
+[10-Sep-2022 18:18:57 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 43
+[10-Sep-2022 18:18:57 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 43
+[10-Sep-2022 18:18:57 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 43
+[10-Sep-2022 18:20:33 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 43
+[10-Sep-2022 18:20:34 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 43
+[10-Sep-2022 18:20:34 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 43
+[10-Sep-2022 18:20:34 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 43
+[10-Sep-2022 18:20:40 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 43
+[10-Sep-2022 18:20:40 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 43
+[10-Sep-2022 18:20:40 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 43
+[10-Sep-2022 18:20:40 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 43
+[10-Sep-2022 18:22:09 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:22:09 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:22:09 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:22:09 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:23:10 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:23:10 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:23:10 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:23:10 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:23:10 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 79
+[10-Sep-2022 18:23:10 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 79
+[10-Sep-2022 18:24:03 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:24:03 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:24:03 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:24:03 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:24:03 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 79
+[10-Sep-2022 18:24:03 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 79
+[10-Sep-2022 18:24:47 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:24:47 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:24:47 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:24:47 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:24:47 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 79
+[10-Sep-2022 18:24:47 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 79
+[10-Sep-2022 18:26:10 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:26:10 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:26:10 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:26:10 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:26:10 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 79
+[10-Sep-2022 18:26:10 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 79
+[10-Sep-2022 18:26:12 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:26:12 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:26:12 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:26:12 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:26:12 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 79
+[10-Sep-2022 18:26:12 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 79
+[10-Sep-2022 18:26:18 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:26:18 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:26:18 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:26:18 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 18:26:18 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 79
+[10-Sep-2022 18:26:18 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 79
+[10-Sep-2022 18:27:31 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:27:31 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:27:31 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:27:31 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 07:59:36 America/Chicago] PHP Parse error:  syntax error, unexpected ''</a></button>'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 78
+[10-Sep-2022 08:00:05 America/Chicago] PHP Parse error:  syntax error, unexpected ''</a></button>'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 78
+[10-Sep-2022 18:30:49 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:30:49 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:30:49 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:30:49 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:31:30 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:31:30 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:31:30 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:31:30 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:31:30 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 78
+[10-Sep-2022 18:31:30 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 78
+[10-Sep-2022 18:31:36 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:31:36 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:31:36 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:31:36 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:31:36 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 78
+[10-Sep-2022 18:31:36 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 78
+[10-Sep-2022 18:32:18 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:32:18 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:32:18 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:32:18 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:33:57 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:33:57 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:33:57 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:33:57 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:40:19 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:40:19 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:40:19 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:40:19 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:53:45 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 18:53:45 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 19:00:28 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 19:00:28 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 19:05:37 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 19:05:37 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 19:07:25 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 19:07:25 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 19:09:15 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 19:09:15 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 19:09:15 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 19:09:15 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 45
+[10-Sep-2022 19:12:15 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 19:12:15 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 20:10:51 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 20:10:51 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 20:10:51 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 20:10:51 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 20:14:39 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 20:14:39 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 20:14:39 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 20:14:39 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 20:15:09 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 20:15:09 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 20:15:09 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
+[10-Sep-2022 20:15:09 Asia/Calcutta] PHP Warning:  imagettftext(): Could not find/open font in /home4/girlsini/beingvrishti.com/certificateMailer/generateCertificate.php on line 44
